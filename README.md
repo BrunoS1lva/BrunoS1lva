@@ -1,4 +1,4 @@
-### Hello fellas! 👋
+System.out.println("Hello world! 👋"); 
 
 - 🔭 I’m currently working on me haha
 - 🌱 I’m currently learning GIT
