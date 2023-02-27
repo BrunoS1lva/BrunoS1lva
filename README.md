@@ -1,7 +1,6 @@
-System.out.println("Hello world! 👋"); 
+console.log(`Hello world! 😎`);
 
-- 🔭 I’m currently working on me haha
-- 🌱 I’m currently learning GIT
+- 🌱 I’m currently learning Git & GitHub
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with React js
 - 💬 Ask me about: my day
