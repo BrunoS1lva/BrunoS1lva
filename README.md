@@ -2,7 +2,7 @@
 console.log(`Hello world! 😎`);
 ```
 
-## FrontEnd developer en desarrollo ⏳
+## Desarrollador web trainee con conocimientos en HTML, CSS y JavaScript. Apasionado por el aprendizaje continuo y el desarrollo de proyectos prácticos. ⏳
 * 🧠 Actualmente estoy aumentando mi conocimiento en Git y GitHub.
 * 🤠 Me encantar&iacute;a poder ser parte de algun proyecto openSource 
 * 💬 Preguntame sobre: Mi d&iacute;a 
